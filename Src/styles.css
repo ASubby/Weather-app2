@@ -23,6 +23,9 @@ a {
 .description {
   font-family: "Fredoka One", cursive;
 }
+a {
+  display: block;
+}
 
 .percent,
 .description {
