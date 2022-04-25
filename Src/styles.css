@@ -1,0 +1,56 @@
+h1 {
+  color: #000;
+  font-weight: lighter;
+  font-size: 40px;
+}
+
+p {
+  font-size: 10px;
+  font-family: "Fredoka One", cursive;
+}
+ul {
+  list-style-type: none;
+  text-align: left;
+  display: inline;
+}
+a {
+  text-decoration: none;
+}
+.percent {
+  display: inline;
+  font-family: "Fredoka One", cursive;
+}
+.description {
+  font-family: "Fredoka One", cursive;
+}
+
+.percent,
+.description {
+  font-size: 10px;
+  text-align: center;
+}
+
+.row {
+  font-family: "Special Elite", cursive;
+}
+.weather-app {
+  border: 1px solid;
+  padding: 20px;
+  margin: 15px;
+  max-width: 500px;
+  border-radius: 15px;
+}
+.search-form {
+  margin-bottom: 15px;
+}
+.units {
+  position: relative;
+  top: -32px;
+}
+.temperature {
+  font-weight: lighter;
+  font-size: 60px;
+  letter-spacing: 5px;
+  text-align: center;
+  padding-left: 30px;
+}
